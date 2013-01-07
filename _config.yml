@@ -1,3 +1,2 @@
-baseurl: /
 markdown: rdiscount
 pygments: true
